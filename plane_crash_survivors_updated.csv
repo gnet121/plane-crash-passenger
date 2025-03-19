@@ -1,0 +1,51 @@
+ID,Full Name,Age,Gender,Date of Birth,Class,Plane Name,Survival
+1,Robert Taylor,46,Female,1978-08-05,Economy Class,Peterson-Rowe Airlines Flight 408,Survived
+2,Randall Alvarez,44,Male,1980-09-16,Business Class,"Greer, Miller and Estes Airlines Flight 866",Not Survived
+3,Sherri Andrews,80,Male,1944-12-10,First Class,"Rivera, Wagner and Russo Airlines Flight 305",Survived
+4,Janice Alvarez,7,Male,2017-06-27,Economy Class,"Garcia, Martinez and Thomas Airlines Flight 821",Survived
+5,Lori West,5,Male,2019-04-16,Business Class,"Johnson, Perez and Vasquez Airlines Flight 607",Not Survived
+6,Jacob Dixon,72,Female,1952-10-26,Economy Class,Edwards PLC Airlines Flight 820,Survived
+7,Alicia Gonzales,34,Male,1990-04-30,Economy Class,"Love, Sanchez and Brown Airlines Flight 577",Survived
+8,Michelle Mcmahon,29,Male,1996-01-20,Business Class,Bullock PLC Airlines Flight 211,Not Survived
+9,Michael Salazar,49,Male,1975-12-09,First Class,Jackson-Martinez Airlines Flight 912,Not Survived
+10,Jacqueline Navarro,25,Female,1999-06-07,Business Class,Robinson Group Airlines Flight 989,Not Survived
+11,Barry Frank,63,Female,1961-12-14,Economy Class,"Morris, Schmidt and Frye Airlines Flight 529",Not Survived
+12,John Davis,4,Male,2021-02-10,Economy Class,"Garcia, Cordova and Villarreal Airlines Flight 576",Survived
+13,Joseph Cook,76,Male,1949-02-13,Business Class,"Butler, Coffey and Rivera Airlines Flight 519",Not Survived
+14,Danielle Holland,58,Male,1966-10-06,First Class,Smith-Mccoy Airlines Flight 503,Survived
+15,William Young,6,Male,2019-01-23,First Class,Mitchell LLC Airlines Flight 600,Not Survived
+16,Mr. Bernard King,62,Female,1963-01-17,Economy Class,Powell LLC Airlines Flight 149,Survived
+17,Elizabeth Kirk,64,Male,1960-04-15,First Class,"Fernandez, Rivera and Clark Airlines Flight 936",Not Survived
+18,Dorothy Miller,33,Female,1991-08-26,Economy Class,Cortez Ltd Airlines Flight 703,Survived
+19,Dustin Peck,37,Male,1987-10-14,Economy Class,Ferguson-Crawford Airlines Flight 922,Survived
+20,Chelsey Smith,79,Male,1945-09-21,Business Class,Marshall-Marshall Airlines Flight 338,Not Survived
+21,Nicholas Russell,68,Male,1956-11-03,First Class,Miller LLC Airlines Flight 419,Survived
+22,Sara King,13,Female,2011-08-11,First Class,"English, Lewis and Cook Airlines Flight 350",Survived
+23,Robert Calderon Jr.,53,Female,1971-10-17,Business Class,"Stewart, Love and Swanson Airlines Flight 223",Survived
+24,Nancy Medina,34,Male,1990-12-06,First Class,Gordon PLC Airlines Flight 189,Not Survived
+25,Brent Rodgers,62,Male,1962-12-16,Economy Class,"Richardson, Todd and Williams Airlines Flight 746",Survived
+26,Peggy Young,48,Male,1976-10-12,Economy Class,"Fry, Bullock and Farley Airlines Flight 277",Not Survived
+27,Shannon Leblanc,21,Female,2004-02-24,Economy Class,Frederick Group Airlines Flight 138,Not Survived
+28,Katherine Delgado,1,Female,2023-09-01,First Class,Dickerson-Burnett Airlines Flight 987,Not Survived
+29,Allison Hill,5,Female,2019-08-01,Business Class,Carney Group Airlines Flight 334,Not Survived
+30,James Beck,22,Female,2002-08-20,First Class,Myers-King Airlines Flight 309,Survived
+31,Sean Cooper,6,Female,2018-06-15,First Class,Davis-Reed Airlines Flight 418,Survived
+32,Jack Wagner,37,Female,1988-02-02,First Class,Bush Ltd Airlines Flight 566,Not Survived
+33,Jonathan Dennis,74,Female,1950-05-12,First Class,"Elliott, Howard and Gonzalez Airlines Flight 875",Not Survived
+34,Mary Anderson,58,Male,1966-03-20,First Class,Silva Group Airlines Flight 241,Survived
+35,Michael Hoover,22,Male,2002-09-07,Economy Class,Hoover Ltd Airlines Flight 937,Not Survived
+36,Diane Johnson,80,Male,1944-07-25,Economy Class,Luna Group Airlines Flight 952,Survived
+37,Adrian Sellers,19,Female,2005-04-04,First Class,Mitchell Inc Airlines Flight 190,Survived
+38,Tanya Reeves,14,Female,2011-01-29,First Class,Waller-Campbell Airlines Flight 592,Survived
+39,Kimberly Bell,19,Male,2005-07-30,Business Class,Hunt Group Airlines Flight 258,Not Survived
+40,Cynthia Gibbs,79,Female,1945-10-13,First Class,Tucker PLC Airlines Flight 115,Survived
+41,Leslie Mills,15,Male,2009-04-29,Economy Class,Moore-Clark Airlines Flight 309,Not Survived
+42,Belinda Bennett,66,Male,1958-10-06,Business Class,"Harmon, Wood and Williams Airlines Flight 727",Survived
+43,Jodi Martin,65,Female,1959-08-20,Economy Class,Sullivan-Morgan Airlines Flight 528,Not Survived
+44,Kathryn Black,15,Male,2010-01-27,Economy Class,"Carlson, Gallagher and Morrow Airlines Flight 524",Not Survived
+45,Benjamin Shelton,36,Female,1988-08-05,Economy Class,"Finley, York and Collier Airlines Flight 674",Not Survived
+46,Francis Lopez,46,Female,1979-02-05,First Class,"Smith, Hammond and Oconnell Airlines Flight 986",Survived
+47,Erica Blevins,78,Female,1946-05-31,Economy Class,Haas and Sons Airlines Flight 784,Not Survived
+48,William Smith,32,Female,1992-06-17,Economy Class,Delgado-Livingston Airlines Flight 695,Survived
+49,Fernando Olsen,13,Female,2011-12-25,First Class,Guerra-Murray Airlines Flight 337,Not Survived
+50,Brandon Taylor,60,Female,1965-01-01,First Class,Hudson LLC Airlines Flight 515,Survived
